@@ -12,7 +12,7 @@
     *       let result = num1 + num2;
     *      console.log("The sum is: " + result); // The sum is: 15
     *   * Explicit Type Casting: In Explicit type casting, the user converts the data type of an object to required data type.
-    *        
+    *       Guide Function In TS 
     *   let num1: number = 10;
     *  let num2: number = 5;
     * let result = num1 + num2;
